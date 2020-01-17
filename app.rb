@@ -6,5 +6,5 @@ class App < Sinatra::Base
     "My name is Ray G."
   end
   
-  get 
+   
 end
